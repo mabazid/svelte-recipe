@@ -11,7 +11,7 @@
   //     method: 'GET',
   //     headers: {
   //       'X-RapidAPI-Key':
-  //         'a6c03323a4mshf31fb472fbbc54dp1438b3jsnd251f741cb65',
+  //         process.env.X-RapidAPI-Key,
   //       'X-RapidAPI-Host': 'tasty.p.rapidapi.com',
   //     },
   //   }
